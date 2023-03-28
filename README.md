@@ -1,3 +1,3 @@
 # bikcraft-curso-origamid
-Conclusão do curso DE HTML/CSS 
+Curso DE HTML/CSS para iniciantes 
 ORIGAMID
